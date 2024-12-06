@@ -9,4 +9,3 @@
 | 4 | [Taboni](http://www.cabinet-taboni.fr/) <br> 📍Nice | 3,7 | 9 990 € | [Contrat](https://github.com/macadock/syndics/tree/main/Taboni) | - Process rigides (relances et réponses quotidiennes) <br> - Les contrats de ménage et d'espaces verts sont mensuels | - Cher <br> - Géré par le directeur au début puis donné à un gestionnaire |
 | 5 | [Sergic](http://www.sergic.com/) <br> 📍Nice | | 7 990 € | [Contrat](https://github.com/macadock/syndics/tree/main/Sergic) | | - Grand groupe <br> - Géré par le directeur au début puis donné à un gestionnaire |
 | 6 | [Matera](https://www.matera.eu/fr/) <br> 📍Nice (en ligne) | 4,4 | 8 750 € | [Contrat](https://github.com/macadock/syndics/tree/main/Matera) | | - En ligne | Consultation afin de compararer les tarifs |
-| RDV le 04/12 | [Crouzet & Breil](http://www.crouzet-breil.com/) <br> 📍Nice | 4,3 |
